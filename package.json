@@ -1,0 +1,8 @@
+{
+  "name": "flep",
+  "version": "1.0.0",
+  "description": "Web Performance Monitoring 🚀",
+  "main": "index.js",
+  "author": "coiven_zary",
+  "license": "MIT"
+}
